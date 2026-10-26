@@ -1,0 +1,6 @@
+cn.stylefeng.roses.kernel.db.starter.ProjectDruidPropertiesAutoConfiguration
+cn.stylefeng.roses.kernel.db.starter.ProjectMyBatisPlusAutoConfiguration
+cn.stylefeng.roses.kernel.db.starter.ProjectDruidMonitorAutoConfiguration
+cn.stylefeng.roses.kernel.db.starter.RemoveDruidAdAutoConfiguration
+cn.stylefeng.roses.kernel.db.starter.ProjectTranAutoConfiguration
+cn.stylefeng.roses.kernel.db.starter.ProjectTenantAutoConfiguration
