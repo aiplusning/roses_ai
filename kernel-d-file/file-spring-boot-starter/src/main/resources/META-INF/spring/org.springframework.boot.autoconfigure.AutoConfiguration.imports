@@ -1,0 +1,3 @@
+cn.stylefeng.roses.kernel.file.starter.ProjectFileAutoConfiguration
+cn.stylefeng.roses.kernel.file.starter.cache.FileRedisCacheAutoConfiguration
+cn.stylefeng.roses.kernel.file.starter.cache.FileMemoryCacheAutoConfiguration
